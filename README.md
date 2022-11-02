@@ -13,7 +13,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 -->
 
 ## Homework Tasks:
-* tbd
+1. [Point Operations and Histograms](./HW01_PointOps_Hists.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb)
+
 
 ## Python Setup:
 
