@@ -4,3 +4,4 @@ numpy
 opencv-python==4.5.*
 opencv-contrib-python==4.5.*
 scipy
+plotly

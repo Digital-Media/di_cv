@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore images (and videos)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Ignore zip folders
+*.zip
