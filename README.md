@@ -19,6 +19,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 |---|---|---|
 | 1 | [Point Operations and Histograms](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
 | 2 | [Hybrid Images](./HW02_Hybrid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb) |
+| 3 | [Binary Leaves](./HW03_Leaves.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb) |
 
 
 ## Python Setup:
