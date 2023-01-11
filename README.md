@@ -14,6 +14,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 5 | [Edges](./05_Edges.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/05_Edges.ipynb) | 
 | 6 | [Thresh](./06_Thresh.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/06_Thresh.ipynb) | 
 | 7 | [Lines](./07_Lines.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb) |
+| 8 | [ML](./08_ML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb) |
 
 ## Homework Tasks:
 
