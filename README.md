@@ -16,7 +16,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 7 | [Lines](./07_Lines.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb) |
 | 8 | [ML](./08_ML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb) |
 | 9 | [NN](./09_NNs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09_NNs.ipynb) |
-| 10 | [CNN](./10_CNNs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/10_CNNs.ipynb) |
+| 10 | [CNN](./10_CNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/10_CNN.ipynb) |
 
 ## Homework Tasks:
 
