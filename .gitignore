@@ -137,3 +137,6 @@ dmypy.json
 
 # Ignore zip folders
 *.zip
+
+# Ignore data folder
+data/
