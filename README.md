@@ -12,8 +12,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 3 | [Histograms](./03_Histograms.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/03_Histograms.ipynb) |  
 | 4 | [Filters](./04_Filters.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/04_Filters.ipynb) |  
 | 5 | [Edges](./05_Edges.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/05_Edges.ipynb) | 
-<!--
 | 6 | [Thresh](./06_Thresh.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/06_Thresh.ipynb) | 
+<!--
 | 7 | [Lines](./07_Lines.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb) |
 | 8 | [ML](./08_ML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb) |
 | 9 | [NN](./09_NNs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09_NNs.ipynb) |
@@ -29,8 +29,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | # | Homework (link to `.ipynb`)  | Open in Colab  |
 |---|---|---|
 | 1 | [Point Operations and Histograms](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
-<!-- 
 | 2 | [Hybrid Images](./HW02_Hybrid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb) |
+<!-- 
 | 3 | [Binary Leaves](./HW03_Leaves.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb) |
 | 4 | [Image Classification](./HW04_Classification.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW04_Classification.ipynb) |
 -->
