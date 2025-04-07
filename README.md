@@ -27,7 +27,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 | # | Homework (link to `.ipynb`) | Open in Colab |
 | - | ----------------------------- | ------------- |
-|   |                               |               |
+| I  | [Homework I](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
 
 <!--
 | 4 | [Image Classification](./HW04_Classification.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW04_Classification.ipynb) |
