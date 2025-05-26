@@ -6,4 +6,5 @@ opencv-python==4.5.*
 opencv-contrib-python==4.5.*
 scipy
 pandas
-scikit-image 
+scikit-image
+ipywidgets 
