@@ -1,4 +1,4 @@
-# Digital Imaging / Visual Computing 
+# Digital Imaging / Visual Computing
 
 This is the repository for the Digital Imaging / Visual Computing course (05_DVC4IL) at the FH Hagenberg.
 
@@ -8,15 +8,16 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
 
-| # | Tutorial (link to `.ipynb`)                        | Open in Colab                                                                                                                                                           |
-| - | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/01_PythonTutorial.ipynb) |
-| 2 | [Introduction to OpenCV](./02_Images.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/02_Images.ipynb)         |
-| 3 | [Histograms](./03_Histograms.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/03_Histograms.ipynb)     |
-| 4 | [Filters](./04_Filters.ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/04_Filters.ipynb)        |
-| 5 | [Edges](./05_Edges.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/05_Edges.ipynb)          |
-| 6 | [Thresh](./06_Thresh.ipynb)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/06_Thresh.ipynb)         |
-| 7 | [Lines](./07_Lines.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb)          |
+| #   | Tutorial (link to `.ipynb`)                             | Open in Colab                                                                                                                                                                |
+| --- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/01_PythonTutorial.ipynb) |
+| 2   | [Introduction to OpenCV](./02_Images.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/02_Images.ipynb)         |
+| 3   | [Histograms](./03_Histograms.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/03_Histograms.ipynb)     |
+| 4   | [Filters](./04_Filters.ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/04_Filters.ipynb)        |
+| 5   | [Edges](./05_Edges.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/05_Edges.ipynb)          |
+| 6   | [Thresh](./06_Thresh.ipynb)                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/06_Thresh.ipynb)         |
+| 7   | [Lines](./07_Lines.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb)          |
+| 8   | [Machine Learning](./08_ML.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb)             |
 
 <!--
 | 11 | [Transfer Learning](./11_TL.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/11_TL.ipynb) |
@@ -25,10 +26,10 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Homework Tasks:
 
-| # | Homework (link to `.ipynb`) | Open in Colab |
-| - | ----------------------------- | ------------- |
-| I  | [Homework I](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
-| II | [Homework II](./HW02_Hybrid.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb) |
+| #   | Homework (link to `.ipynb`)               | Open in Colab                                                                                                                                                                  |
+| --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| I   | [Homework I](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
+| II  | [Homework II](./HW02_Hybrid.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb)         |
 
 <!--
 | 4 | [Image Classification](./HW04_Classification.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW04_Classification.ipynb) |
