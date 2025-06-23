@@ -2,9 +2,11 @@ ipykernel
 matplotlib
 plotly
 numpy
-opencv-python==4.5.*
-opencv-contrib-python==4.5.*
+opencv-python
+opencv-contrib-python
 scipy
 pandas
 scikit-image
 ipywidgets 
+ultralytics
+torch

@@ -19,6 +19,9 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 7   | [Lines](./07_Lines.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb)          |
 | 8   | [Machine Learning](./08_ML.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb)             |
 | 9   | [Neural Networks](./09_NNs.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09_NNs.ipynb)             |
+| 10  | [Object Detection with YOLO](./10_OD.ipynb)            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/10_OD.ipynb)             |
+
+
 <!--
 | 11 | [Transfer Learning](./11_TL.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/11_TL.ipynb) |
 | 12 | [Object Detection](./12_OD.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/12_OD.ipynb) |
@@ -26,11 +29,12 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Homework Tasks:
 
-| #   | Homework (link to `.ipynb`)               | Open in Colab                                                                                                                                                                  |
-| --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| I   | [Homework I](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
-| II  | [Homework II](./HW02_Hybrid.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb)         |
-| III | [Homework III](./HW03_Leaves.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb)         |
+| #   | Homework (link to `.ipynb`)                           | Open in Colab                                                                                                                                                                    |
+| --- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| I   | [Point Operations & Histograms](./HW01_PointOps_Hists.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_PointOps_Hists.ipynb) |
+| II  | [Hybrid Images](./HW02_Hybrid.ipynb)                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb)         |
+| III | [Leaf Classification](./HW03_Leaves.ipynb)          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb)         |
+| IV  | [Hockey Dataset Analysis](./HW04_Hockey_Dataset.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW04_Hockey_Dataset.ipynb) |
 
 
 <!--
@@ -50,10 +54,17 @@ Just click on the corresponding Open in Colab badge: [![Open In Colab](https://c
 
 Install Python on your computer via [Conda/Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/windows.html) or the [Python Installer](https://www.python.org/downloads/). Use Python3, as Python2 is not supported anymore. Furthermore, you need an Editor that supports Jupyter (`.ipynb`) notebooks. I recommend using [Visual Studio Code](https://code.visualstudio.com/download). Optionally, you can also use a local server and open [Notebooks in your browser](https://test-jupyter.readthedocs.io/en/latest/install.html) (Visual Studio simplifies this).
 
+Required packages are listed in `requirements.txt`. Install them with:
+```bash
+pip install -r requirements.txt
+```
+
 ## Useful Links:
 
 - [Python Documentation](https://docs.python.org/3.8/)
 - [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
+- [Roboflow Documentation](https://docs.roboflow.com/)
 - If you know Matlab, you can find the differences between Matlab and Python [here](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 ## Course Grading:
