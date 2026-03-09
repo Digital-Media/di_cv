@@ -16,8 +16,6 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 More tutorials and homework tasks will be added as the course progresses.
 
-Previous course iterations are available in the [di_cv_2025](https://github.com/Digital-Media/di_cv/tree/di_cv_2025), [di_cv_2024](https://github.com/Digital-Media/di_cv/tree/di_cv_2024), [di_cv_2023](https://github.com/Digital-Media/di_cv/tree/di_cv_2023), and [di_cv_2022](https://github.com/Digital-Media/di_cv/tree/di_cv_2022) branches.
-
 ## Homework Tasks:
 
 Homework tasks will be announced as we progress through the course.
