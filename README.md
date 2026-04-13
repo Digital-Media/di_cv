@@ -2,8 +2,6 @@
 
 This is the repository for the Digital Imaging / Visual Computing course (05_DVC4IL) at the FH Hagenberg.
 
-[E-Learning course](https://elearning.fh-ooe.at/course/view.php?id=34875)
-
 Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
