@@ -14,6 +14,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 4   | [Filters](./04_Filters.ipynb)                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/04_Filters.ipynb)        |
 | 5   | [Edges](./05_Edges.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/05_Edges.ipynb)          |
 | 6   | [Thresholding](./06_Thresholding.ipynb)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/06_Thresholding.ipynb)   |
+| 7   | [Lines](./07_Lines.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb)          |
 
 More tutorials and homework tasks will be added as the course progresses.
 
