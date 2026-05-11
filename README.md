@@ -24,6 +24,7 @@ More tutorials and homework tasks will be added as the course progresses.
 | --- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Color Spaces and Histograms](./HW01_ColorSpaces_Hists.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_ColorSpaces_Hists.ipynb)     |
 | 2   | [Hybrid Images](./HW02_Hybrid.ipynb)                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb)                |
+| 3   | [Leaves](./HW03_Leaves.ipynb)                                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb)                |
 
 ## Python Setup:
 
