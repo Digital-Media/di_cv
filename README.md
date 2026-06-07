@@ -18,6 +18,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 8   | [Machine Learning](./08_ML.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb)             |
 | 9   | [Neural Networks](./09_NNs.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09_NNs.ipynb)            |
 | 9a  | [Convolutional Neural Networks](./09a_CNN.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09a_CNN.ipynb)           |
+| 10  | [Object Detection with YOLO](./10_OD.ipynb)             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/10_OD.ipynb)             |
 
 More tutorials and homework tasks will be added as the course progresses.
 
@@ -28,6 +29,7 @@ More tutorials and homework tasks will be added as the course progresses.
 | 1   | [Color Spaces and Histograms](./HW01_ColorSpaces_Hists.ipynb)     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW01_ColorSpaces_Hists.ipynb)     |
 | 2   | [Hybrid Images](./HW02_Hybrid.ipynb)                              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW02_Hybrid.ipynb)                |
 | 3   | [Leaves](./HW03_Leaves.ipynb)                                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW03_Leaves.ipynb)                |
+| 4   | [Pedestrian Detection Dataset](./HW04_Pedestrian_Dataset.ipynb)   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/HW04_Pedestrian_Dataset.ipynb)    |
 
 ## Python Setup:
 
