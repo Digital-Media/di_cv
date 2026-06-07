@@ -17,7 +17,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 7   | [Lines](./07_Lines.ipynb)                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/07_Lines.ipynb)          |
 | 8   | [Machine Learning](./08_ML.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/08_ML.ipynb)             |
 | 9   | [Neural Networks](./09_NNs.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09_NNs.ipynb)            |
-| 10  | [Convolutional Neural Networks](./10_CNN.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/10_CNN.ipynb)            |
+| 9a  | [Convolutional Neural Networks](./09a_CNN.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/09a_CNN.ipynb)           |
 
 More tutorials and homework tasks will be added as the course progresses.
 
